@@ -1,3 +1,14 @@
+# GITIGNORE
+
+input/COVID Dreams (Responses) - Form Responses 1.tsv
+
+input/COVID-2019 - ECDC (2020).csv
+output/01_covid.csv
+
+output/03_*
+
+# Python
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
